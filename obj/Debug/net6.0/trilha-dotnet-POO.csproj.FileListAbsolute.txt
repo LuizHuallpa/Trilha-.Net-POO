@@ -1,0 +1,15 @@
+C:\study\trilha-dotnet-POO\bin\Debug\net6.0\trilha-dotnet-POO.exe
+C:\study\trilha-dotnet-POO\bin\Debug\net6.0\trilha-dotnet-POO.deps.json
+C:\study\trilha-dotnet-POO\bin\Debug\net6.0\trilha-dotnet-POO.runtimeconfig.json
+C:\study\trilha-dotnet-POO\bin\Debug\net6.0\trilha-dotnet-POO.dll
+C:\study\trilha-dotnet-POO\bin\Debug\net6.0\trilha-dotnet-POO.pdb
+C:\study\trilha-dotnet-POO\obj\Debug\net6.0\trilha-dotnet-POO.csproj.AssemblyReference.cache
+C:\study\trilha-dotnet-POO\obj\Debug\net6.0\trilha-dotnet-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\trilha-dotnet-POO\obj\Debug\net6.0\trilha-dotnet-POO.AssemblyInfoInputs.cache
+C:\study\trilha-dotnet-POO\obj\Debug\net6.0\trilha-dotnet-POO.AssemblyInfo.cs
+C:\study\trilha-dotnet-POO\obj\Debug\net6.0\trilha-dotnet-POO.csproj.CoreCompileInputs.cache
+C:\study\trilha-dotnet-POO\obj\Debug\net6.0\trilha-dotnet-POO.dll
+C:\study\trilha-dotnet-POO\obj\Debug\net6.0\refint\trilha-dotnet-POO.dll
+C:\study\trilha-dotnet-POO\obj\Debug\net6.0\trilha-dotnet-POO.pdb
+C:\study\trilha-dotnet-POO\obj\Debug\net6.0\trilha-dotnet-POO.genruntimeconfig.cache
+C:\study\trilha-dotnet-POO\obj\Debug\net6.0\ref\trilha-dotnet-POO.dll
